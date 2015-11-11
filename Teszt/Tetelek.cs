@@ -8,11 +8,11 @@ namespace Teszt
 {
     class Tetelek
     {
-        //static void Main(string[] args)
-        //{
-        //    Console.WriteLine("Ez egy teszt program! Árvíztűrő tükörfúrógép");
-        //    Console.ReadLine();
-        //}
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Ez egy teszt program! Árvíztűrő tükörfúrógép");
+            Console.ReadLine();
+        }
 
         public int osszeg;
         public void osszegzes(int[] A, int osszeg)
